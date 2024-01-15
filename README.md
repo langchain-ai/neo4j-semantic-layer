@@ -1,6 +1,8 @@
 # neo4j-app
 
-This deploys the [neo4j-semantic-layer](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer) semantic layer template.
+This deploys the [neo4j-semantic-layer](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer) semantic layer template using hosted LangServe.
+
+![template](https://github.com/langchain-ai/neo4j-semantic-layer/assets/122662504/00ef0d88-8538-42ba-a5e0-dce3d330f378)
 
 ## Installation
 
