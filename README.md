@@ -1,6 +1,6 @@
 # neo4j-app
 
-This deploys the [neo4j-semantic-layer](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer) semantic layer template using hosted LangServe.
+Over the past few months, we've built a large collection of [template](https://templates.langchain.com/) LangServe apps. This repo showcases a template from Neo4J, the [neo4j-semantic-layer](https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer). Here, we turn the template into a web service with LangServe. This repo can be deployed using Hosted LangServe.
 
 ![template](https://github.com/langchain-ai/neo4j-semantic-layer/assets/122662504/00ef0d88-8538-42ba-a5e0-dce3d330f378)
 
